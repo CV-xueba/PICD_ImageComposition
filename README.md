@@ -1,8 +1,7 @@
 # PICD: Photographic Image Composition Dataset
 
-**CVPR 2025 Paper (Coming Soon)** | *Project Website (Optional)*  
-**Author**: [Your Name] | **Institution**: [Your Institution]  
-**Contact**: your.email@example.com
+
+📄 [CVPR 2025 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Can_Machines_Understand_Composition_Dataset_and_Benchmark_for_Photographic_Image_CVPR_2025_paper.html) | 📑 [Appendix (Supplemental)](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zhao_Can_Machines_Understand_CVPR_2025_supplemental.pdf)  
 
 ---
 
