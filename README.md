@@ -18,6 +18,13 @@ The composition categories are defined along two dimensions:
 
 📖 For detailed category definitions and dataset design, please refer to the Appendix in our paper.
 
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/a92bc2af-091f-467a-9f96-d824d9b159fa" />
+
+
+
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/fc5a477e-d9ce-4e6d-bfdb-c4590a672f64" />
+
+
 ---
 
 ## 📊 Dataset Information
