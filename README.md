@@ -1,7 +1,9 @@
-# PICD: Photographic Image Composition Dataset
+# PICD: Photographic Image Composition Dataset  
+**Can Machines Understand Composition? A Dataset and Benchmark for Photographic Image Composition Embedding and Understanding**  
+📌 *CVPR 2025 Highlight*
 
 📄 [CVPR 2025 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Can_Machines_Understand_Composition_Dataset_and_Benchmark_for_Photographic_Image_CVPR_2025_paper.html)  
-📑 [Appendix (Supplemental)](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zhao_Can_Machines_Understand_CVPR_2025_supplemental.pdf)
+📑 [Supplementary Appendix](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zhao_Can_Machines_Understand_CVPR_2025_supplemental.pdf)
 
 ---
 
