@@ -47,17 +47,26 @@ PICD is actively maintained and will be continuously expanded. The current relea
 ---
 
 ## 🔗 Download
+The dataset includes both downloadable images and supplementary metadata files.
 
-The dataset includes both image content and supplementary metadata.
-
-- 📥 **Images from open platforms** (e.g., Unsplash, Pexels) and their download links:  
+- 📥 **Images from open platforms and open-source datasets that allow redistribution**  
+  This includes platforms such as Unsplash and Pexels. We provide direct download links:  
   👉 **[TODO: Google Drive / Baidu Netdisk download link]**
 
-- 🗂️ **Images from public datasets** are referenced via image IDs. A mapping file is provided:  
-  👉 **`original_dataset_image_id ↔ PICD_image_id`**  
-  👉 **[TODO: Download link for mapping file]**
+- 🗂️ **Images from public datasets that do not permit direct redistribution**  
+  For these images (e.g., from AVA, COCO, VOC), we provide a mapping between the original image links or IDs and the corresponding PICD image IDs:  
+  👉 **[TODO: Download link for ID mapping file]** (`original_dataset_image_link ↔ PICD_image_id`)
 
-If you experience difficulties accessing any download links, please [contact us](mailto:your.email@example.com) and we will help you resolve the issue promptly.
+- ✏️ **Composition category definitions**  
+  A table listing all 24 composition categories, including their full names, abbreviations, and assigned index numbers:  
+  👉 **[TODO: Download link for category definition file]**
+
+- 👁️ **Image-level annotations**  
+  A file mapping each PICD image ID to its corresponding composition category label:  
+  👉 **[TODO: Download link for image annotations file]**
+
+If you encounter any issues accessing the files—especially if you find downloading from open-source platforms cumbersome—please [contact us](mailto:your.email@example.com), and we will assist you promptly.
+
 
 ---
 
