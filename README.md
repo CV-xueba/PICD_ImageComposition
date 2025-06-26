@@ -38,7 +38,8 @@ The composition label system is organized along two dimensions:
 
 PICD is actively maintained and will be continuously expanded. The current release includes:
 
-- ✅ **48,523 images** with verified composition category annotations  
+- ✅ **48,523 images**
+- ✅ Composition category annotations  
 - ⏳ **Negative samples** (images not conforming to any predefined composition) — *coming soon*  
 - ⏳ **Composition quality scores** — *coming soon*  
 - ⏳ **Textual descriptions** of composition for each image — *coming soon*
