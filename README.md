@@ -13,17 +13,23 @@ This dataset is designed to support the evaluation and exploration of compositio
 
 The composition label system is organized along two dimensions:
 
-- **Element Types**: Points, Lines, and Shapes (inspired by Kandinsky’s principles)
+- **Element Types**: Points, Lines, and Shapes (inspired by Kandinsky’s principles)  
 - **Arrangement Patterns**: Rule of Thirds, Centered, Diagonal, Vertical, Horizontal, Triangle, C-curve, O-curve, S-curve, Radial, Dense, Scatter, etc.
 
 📖 For detailed category definitions and dataset design, please refer to the [Appendix](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zhao_Can_Machines_Understand_CVPR_2025_supplemental.pdf) of our paper.
 
 <p align="center">
-  <img width="306" alt="label system figure 1" src="https://github.com/user-attachments/assets/a92bc2af-091f-467a-9f96-d824d9b159fa" />
+  <img width="419" alt="Label System Figure" src="https://github.com/user-attachments/assets/5bf1aa5e-d0fa-4480-9334-bc1d130b4510" />
+</p>
+<p align="center">
+  <em>Figure 1. The PICD label system, which is expanded based on two dimensions: element type and arrangement. Column 1 (green) represents the arrangement types, while Columns 2–4 correspond to three compositional element types. Categories are numbered 1–24 with abbreviations in blue brackets. Red boxes denote merged categories; blue strikethroughs mark categories excluded due to low frequency. Column 5 highlights dominant compositional factors.</em>
 </p>
 
 <p align="center">
-  <img width="887" alt="label system figure 2" src="https://github.com/user-attachments/assets/fc5a477e-d9ce-4e6d-bfdb-c4590a672f64" />
+  <img width="887" alt="Category Sample Figure" src="https://github.com/user-attachments/assets/fc5a477e-d9ce-4e6d-bfdb-c4590a672f64" />
+</p>
+<p align="center">
+  <em>Figure 2. Sample images for the 24 composition categories in PICD. Abbreviations shown in blue parentheses.</em>
 </p>
 
 ---
