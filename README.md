@@ -62,7 +62,7 @@ The dataset includes both downloadable images and supplementary metadata files.
   (`original_dataset_image_link_or_id ↔ PICD_image_id`)
 
 - ✏️ **Image annotations**
-  👉 **[Annotation File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/labels_PICD.csv)**
+  **[Annotation File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/labels_PICD.csv)**
   This file contains:
   - `img_id`: the PICD image ID  
   - `category_id`: the composition category index (1–24)  
