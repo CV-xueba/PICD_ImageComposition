@@ -57,9 +57,10 @@ The dataset includes both downloadable images and supplementary metadata files.
   👉 **[TODO: Google Drive / Baidu Netdisk download link]**
 
 - 🗂️ **Images from public datasets that do not allow direct redistribution**  
-  For these images (e.g., AVA, COCO, VOC), we provide a mapping file between the original dataset image link or ID and the corresponding PICD image ID:  
-  👉 **[TODO: Download link for image ID mapping file]**  
-  (`original_dataset_image_link_or_id ↔ PICD_image_id`)
+  For these images (e.g., AVA), we provide a mapping file between the original dataset image link or ID and the corresponding PICD image ID:  
+  👉 **[Download link for image ID mapping file](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/image_link_public.csv)**  
+  (`PICD_image_id ↔ original_dataset_image_link_or_id`)
+  If you encounter any issues for this step, please feel free to [contact us](mailto:your.email@example.com), and we will assist you promptly.
 
 - ✏️ **Image annotations**
   **[Annotation File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/labels_PICD.csv)**
@@ -72,7 +73,7 @@ The dataset includes both downloadable images and supplementary metadata files.
 
 The mapping between `category_id`, `category_abbre`, and `category_full_name` follows the definitions shown in **Figure 1** above.
 
-If you encounter any issues accessing the files—especially if downloading from open platforms is cumbersome—please feel free to [contact us](mailto:your.email@example.com), and we will assist you promptly.
+
 
 ---
 
