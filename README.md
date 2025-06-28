@@ -61,15 +61,16 @@ The dataset includes both downloadable images and supplementary metadata files.
   👉 **[TODO: Download link for image ID mapping file]**  
   (`original_dataset_image_link_or_id ↔ PICD_image_id`)
 
-- ✏️ **Image annotations**  
+- ✏️ **Image annotations**
+  👉 **[Annotation File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/labels_PICD.csv)**
   This file contains:
   - `img_id`: the PICD image ID  
   - `category_id`: the composition category index (1–24)  
   - `category_abbre`: the category abbreviation (as shown in Figure 2)  
   - `category_full_name`: the full category name  
-  👉 **[Annotation File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/labels_PICD.csv)**
 
-The mapping between `category_id`, `category_abbre`, and `category_full_name` follows the definitions shown in **Figure 2** above.
+
+The mapping between `category_id`, `category_abbre`, and `category_full_name` follows the definitions shown in **Figure 1** above.
 
 If you encounter any issues accessing the files—especially if downloading from open platforms is cumbersome—please feel free to [contact us](mailto:your.email@example.com), and we will assist you promptly.
 
