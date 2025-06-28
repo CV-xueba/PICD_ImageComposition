@@ -67,7 +67,7 @@ The dataset includes both downloadable images and supplementary metadata files.
   - `category_id`: the composition category index (1–24)  
   - `category_abbre`: the category abbreviation (as shown in Figure 2)  
   - `category_full_name`: the full category name  
-  👉 **[TODO: Download link for annotation file]**
+  👉 **[Annotation File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/labels_PICD.csv)**
 
 The mapping between `category_id`, `category_abbre`, and `category_full_name` follows the definitions shown in **Figure 2** above.
 
