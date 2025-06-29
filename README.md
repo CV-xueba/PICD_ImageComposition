@@ -70,9 +70,9 @@ PICD includes both image data and annotations. Due to varying licensing conditio
   👉 **[Annotation File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/labels_PICD.csv)**  
   This CSV file includes:
   - `img_id`: the PICD image ID  
-  - `category_id`: the composition category index (1–24)  
-  - `category_abbre`: the abbreviated category label (see Figure 2)  
-  - `category_full_name`: the full name of the composition category  
+  - `category_id`: the composition category index 
+  - `category_abbre`: the abbreviated category label
+  - `category_full_name`: the full name of the composition category
 
 The mapping among `category_id`, `category_abbre`, and `category_full_name` follows the structure defined in **Figure 1** above.
 
