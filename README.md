@@ -61,7 +61,8 @@ Image download is divided into two parts based on licensing:
 **Part 1: Images with redistribution permission**  
 - This includes 44,577 images from open platforms and redistributable open-source datasets (e.g., Unsplash, Pexels).  
 - These images can be downloaded directly via the following link:  
-  👉 **[TODO: Google Drive / Baidu Netdisk download link with code 1517](https://pan.baidu.com/s/17dWynHJzCTi3fe5dy0v8Fw?pwd=1517)**
+  👉 **[Baidu Netdisk download link (with code 1517)](https://pan.baidu.com/s/17dWynHJzCTi3fe5dy0v8Fw?pwd=1517)**
+  👉 **[TODO: Google Drive] **
 
 **Part 2: Images requiring user-side access**  
 - This includes 4546 images from public datasets that do not permit redistribution (e.g., AVA).  
@@ -103,9 +104,10 @@ All users must also agree to the dataset-specific terms of use:
 If you use PICD in your research, please cite:
 
 ```bibtex
-@inproceedings{zhao2025picd,
-  title     = {Can Machines Understand Composition? Dataset and Benchmark for Photographic Image Composition Understanding},
-  author    = {Zhaoran Zhao and [Other Authors]},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2025}
+@inproceedings{zhao2025can,
+  title={Can Machines Understand Composition? Dataset and Benchmark for Photographic Image Composition Embedding and Understanding},
+  author={Zhao, Zhaoran and Lu, Peng and Zhang, Anran and Li, Peipei and Li, Xia and Liu, Xuannan and Hu, Yang and Chen, Shiyi and Wang, Liwei and Guo, Wenhao},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={14411--14421},
+  year={2025}
 }
