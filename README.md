@@ -62,7 +62,7 @@ Image download is divided into two parts based on licensing:
 - This includes 44,577 images from open platforms and redistributable open-source datasets (e.g., Unsplash, Pexels).  
 - These images can be downloaded directly via the following link:  
   👉 **[Baidu Netdisk download link (with code 1517)](https://pan.baidu.com/s/17dWynHJzCTi3fe5dy0v8Fw?pwd=1517)**
-  👉 **[TODO: Google Drive] **
+  👉 **[TODO: Google Drive]**
 
 **Part 2: Images requiring user-side access**  
 - This includes 4546 images from public datasets that do not permit redistribution (e.g., AVA).  
