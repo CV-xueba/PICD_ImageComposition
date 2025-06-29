@@ -52,7 +52,7 @@ PICD is actively maintained and will continue to expand. The current release inc
 
 PICD includes both image data and annotations. Due to varying licensing conditions, images are provided in two categories:
 
-### 1. Image Downloads
+### 1. Images
 
 - 📥 **Images from open platforms and redistributable open-source datasets**  
   These include platforms like Unsplash and Pexels. We provide direct download links:  
