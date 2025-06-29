@@ -70,7 +70,7 @@ Image download is divided into two parts based on licensing:
   👉 **[Image ID Mapping File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/image_link_public.csv)**
 
 **2) Alternative Access:**  
-If you prefer to request both parts directly via email (especially for convenience or if you encounter access issues), please send a message to [your.email@example.com](mailto:your.email@example.com) with your affiliation and intended use. We will respond with the download links after reviewing your request.
+If you prefer to request both parts directly via email (especially for convenience or if you encounter access issues), please send a message to [picd2025@outlook.com](picd2025@outlook.com) with your affiliation and intended use. We will respond with the download links after reviewing your request.
 
 > Accessing or using the dataset in any way implies agreement to the  
 > 📄 [PICD Dataset Terms of Use (PDF)](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/PICD_Dataset_Terms_of_Use.pdf)
