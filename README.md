@@ -54,6 +54,8 @@ PICD consists of both image files and annotations.
 
 ### 1. Images
 
+**1) Direct Access:** 
+
 Image download is divided into two parts based on licensing:
 
 **Part 1: Images with redistribution permission**  
@@ -66,7 +68,7 @@ Image download is divided into two parts based on licensing:
 - For these, we provide a mapping file that links each PICD-assigned image ID to the original dataset image ID or URL. You may download the original images from their respective sources using this mapping:  
   👉 **[Image ID Mapping File](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/image_link_public.csv)**
 
-**Alternative Access:**  
+**2) Alternative Access:**  
 If you prefer to request both parts directly via email (especially for convenience or if you encounter access issues), please send a message to [your.email@example.com](mailto:your.email@example.com) with your affiliation and intended use. We will respond with the download links after reviewing your request.
 
 > Accessing or using the dataset in any way implies agreement to the  
