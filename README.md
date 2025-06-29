@@ -74,8 +74,6 @@ If you prefer to request both parts directly via email (especially for convenien
 > Accessing or using the dataset in any way implies agreement to the  
 > 📄 [PICD Dataset Terms of Use (PDF)](https://github.com/CV-xueba/PICD_ImageComposition/blob/main/PICD_Dataset_Terms_of_Use.pdf)
 
----
-
 ### 2. Annotations
 
 - ✏️ **Image Annotation File**  
